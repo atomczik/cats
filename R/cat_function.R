@@ -2,7 +2,7 @@
 #'
 #' This function allows you to express your love of cats.
 #' @param love Do you love cats? Defaults to TRUE.
-#' @keywords cats angela
+#' @keywords cats angela tomczik
 #' @export
 #' @examples
 #' cat_function()
